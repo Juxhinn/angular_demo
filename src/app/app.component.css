@@ -1,0 +1,35 @@
+body{
+  vertical-align: middle;
+  horiz-align: center;
+  background-color: #ffffff;
+  background-image: url("../assets/img.png");
+  background-size: contain;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: 100%;
+}
+body div {
+  position: relative;
+  width: inherit;
+  height: 100%;
+  left: 0;
+}
+
+form {
+  display: inline-block;
+  align-content: center;
+  vert-align: middle;
+  horiz-align: center;
+}
+.frm1{
+  margin-left: 60px;
+  margin-right: 60px;
+  padding: 10px;
+  align-self: center;
+  color: #000000;
+}
+.button1{
+  color: #ffffff;
+  background-color: #0000b2;
+  text-align: center;
+}
