@@ -33,3 +33,11 @@ form {
   background-color: #0000b2;
   text-align: center;
 }
+.title{
+  background-color: black;
+  color: blue;
+  text-align: center;
+  font-family: "Algerian";
+  font-size:xxx-large ;
+  text-decoration-line: grammar-error;
+}
