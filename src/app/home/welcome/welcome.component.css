@@ -1,0 +1,13 @@
+img{
+  alignment: center;
+}
+.img1{
+  alignment: center;
+  align-content: center;
+  text-align: center;
+}
+.hdr{
+  font-size: 55px;
+  font-family: "Franklin Gothic Heavy";
+  text-align: center;
+}
